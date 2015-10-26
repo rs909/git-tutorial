@@ -1,6 +1,11 @@
 User 1 changed the file
 -----------------------
 Added by user1
+
+------------------------
+User 2 changed the file
+-----------------------
+User 2 added
 -------------------------
 Additional Changes
 ------------------------
